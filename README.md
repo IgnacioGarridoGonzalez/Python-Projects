@@ -10,4 +10,12 @@ I.  GeoApp:
 
 II. Great Circle Distance Finder:
 
-  This program takes the latitude and longitude of two point on the surface of the Earth and returns the distance between them in kilometers.
+  This program takes the latitude and longitude of two points on the surface of the Earth and returns the distance between them in kilometers. When comparing the computed distances to those provided by Google, the relative error is found to be well under a 1%.
+  
+ III. Morse Code Translator:
+ 
+  This program takes text in English or Spanish and returns a translation in Morse Code.
+  
+ IV. Basic Encryptor:
+ 
+  This program takes a text as an input and a password to protect it. In order to retrieve the information, the correct password must be typed. Otherwise, after three attempts, the information is locked.
