@@ -15,7 +15,11 @@ II. Great Circle Distance Finder:
  III. Morse Code Translator:
  
   This program takes text in English or Spanish and returns a translation in Morse Code.
-  
- IV. Basic Encryptor:
+ 
+ IV. IMDb Random Choice:
+ 
+  This program webscrapes IMBd's top 250 movies and provides a random suggestion, together with its date, rating, director and staring actors. This is done through the BeautifulSoup module.
+ 
+ V. Basic Encryptor:
  
   This program takes a text as an input and a password to protect it. In order to retrieve the information, the correct password must be typed. Otherwise, after three attempts, the information is locked.
